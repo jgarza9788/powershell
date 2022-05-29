@@ -8,3 +8,9 @@ this is just my powershell config files.
 
 ## search for icons (from nerd font)
 https://www.nerdfonts.com/cheat-sheet
+
+## versions
+
+### working version  
+~\.config\powershell
+
