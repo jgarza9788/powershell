@@ -33,6 +33,10 @@ Set-Alias less 'C:\Program Files\Git\usr\bin\less.exe'
 # powershell -ExecutionPolicy ByPass -NoExit -Command "& 'C:\Users\JGarza\miniconda3\shell\condabin\conda-hook.ps1' ; conda activate 'C:\Users\JGarza\miniconda3\'"
 conda init powershell -q
 
+#  cd to folder
+cd .\github\
+
+# clear before showing
 clear
 
-# cd .\github\vacasaalert\
+
